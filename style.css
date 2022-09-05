@@ -4,6 +4,12 @@ body{
 }
 .header {
     background-color: #1F2937;
+    padding-top: 8px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 80px;
+    display: flex;
+    flex-direction: column;
 }
 
 .logo {
@@ -26,4 +32,13 @@ body{
 
 img.top {
     width: 340px;
+}
+
+.header-nav {
+    display: flex;
+    
+}
+
+.header-main {
+    display: flex;
 }
