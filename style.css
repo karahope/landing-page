@@ -17,6 +17,10 @@ body{
 .hero-main {
     font-size: 48px;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    
+
 }
 
 .logo, .hero-main {
@@ -25,11 +29,13 @@ body{
 
 .hero-sub, a {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #e5e7ebc5;
 }
 
 img.top {
-    width: 340px;
+    width: 500px;
+    height: 240px;
+    margin-left: 48px;
 }
 
 .header-nav {
@@ -42,6 +48,8 @@ img.top {
 .header-main {
     display: flex;
     padding-bottom: 120px;
+    justify-content: space-between;
+
 }
 
 ul {
@@ -49,8 +57,10 @@ ul {
     display: flex;
     padding: 0;
     margin: 0;
+    gap: 20px;
 }
 
 a {
     text-decoration: none;
 }
+
