@@ -20,6 +20,7 @@ body{
     font-weight: bold;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     
 
 }
@@ -50,7 +51,7 @@ img.top {
 
 .header-main {
     display: flex;
-    padding-bottom: 120px;
+    padding-bottom: 140px;
     justify-content: space-between;
 
 }
