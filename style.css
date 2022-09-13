@@ -38,7 +38,7 @@ body{
 img.top {
     width: 500px;
     height: 240px;
-    margin-left: 48px;
+    margin-left: 24px;
     flex-shrink: 0;
 }
 
@@ -70,8 +70,8 @@ a {
 
 .sign1 {
     align-self: flex-start;
-    background-color: rgb(0, 136, 255);
-    border: 1px solid rgb(0, 136, 255);
+    background-color: #3882F6;
+    border: 1px solid #3882F6;
     color: white;
     font-weight: bold;
     margin-top: .8em;
@@ -81,4 +81,8 @@ a {
 button {
     padding: 8px 32px;
     border-radius: 8px; 
+}
+
+.hero-sub {
+    width: 500px;
 }
