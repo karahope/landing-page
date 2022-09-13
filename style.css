@@ -1,4 +1,5 @@
 body{
+    font-family: "Roboto", sans-serif;
     padding: 0;
     margin: 0;
     display: flex;
@@ -38,7 +39,7 @@ body{
 img.top {
     width: 500px;
     height: 240px;
-    margin-left: 24px;
+    margin-left: 32px;
     flex-shrink: 0;
 }
 
