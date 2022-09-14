@@ -88,3 +88,32 @@ button {
 .hero-sub {
     width: 500px;
 }
+
+.watch img {
+    width: 200px;
+}
+
+.information {
+    text-align: center;
+    
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    padding: 48px 0;
+}
+
+.watches {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.subtext {
+    max-width: 200px;
+}
+
+
+
