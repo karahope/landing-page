@@ -75,7 +75,7 @@ a {
 }
 
 button {
-    padding: 8px 32px;
+    padding: 6px 32px;
     border-radius: 8px; 
     color: white;
     font-weight: bold;
@@ -150,7 +150,21 @@ button {
 }
 
 .call {
-    padding: 80px 200px;
+    padding: 100px 200px;
 }
 
+.sign2 {
+    border: 2px solid white;
+}
 
+.bold {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.normal {
+    color:#e5e7ebc5;
+    font-size: 18px;
+    margin-top: 2px;
+}
