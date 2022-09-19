@@ -22,8 +22,6 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
-
 }
 
 .logo, .hero-main {
@@ -71,17 +69,18 @@ a {
 
 .sign1 {
     align-self: flex-start;
-    background-color: #3882F6;
     border: 1px solid #3882F6;
-    color: white;
     font-weight: bold;
     margin-top: .8em;
-    font-size: 16px;
 }
 
 button {
     padding: 8px 32px;
     border-radius: 8px; 
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #3882F6;
 }
 
 .hero-sub {
@@ -139,6 +138,19 @@ button {
     font-weight: bold;
     text-align: end;
     padding-right: 20px;
-    
 }
+
+.action {
+    background-color:#3882F6;
+    border-radius: 8px;
+    padding: 48px 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.call {
+    padding: 80px 200px;
+}
+
 
