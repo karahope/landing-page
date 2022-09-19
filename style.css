@@ -95,7 +95,6 @@ button {
 
 .information {
     text-align: center;
-    
 }
 
 .title {
@@ -109,11 +108,15 @@ button {
     display: flex;
     justify-content: center;
     gap: 48px;
+    padding-bottom: 100px;
 }
 
 .subtext {
     max-width: 200px;
+    color: gray;
+    margin-top: 8px;
 }
+
 
 
 
